@@ -1,0 +1,2 @@
+24.09.08 MakeBiggerIndex로 자체 인덱스를 가지고 있는 테이블을 구분할 큰 인덱스 생성
+24.09.08 InsertRowWhenNumberIncreases로 구분된 테이블 사이에 공백을 2줄 넣어줌.
